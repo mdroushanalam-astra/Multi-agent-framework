@@ -1,4 +1,4 @@
-# Multi-Agent Framework — Enterprise Autonomous Swarm Specification 🤖⚡
+# Multi-Agent Framework:  Enterprise Autonomous Swarm Specification 🤖⚡
 
 <div align="center">
 
@@ -62,9 +62,9 @@ As autonomous agent deployments scale from single-turn assistants to decentraliz
 ## 🤝 Open Governance & Contribution
 
 This specification includes full enterprise open-source governance guidelines:
-* [`CONTRIBUTING.md`](./CONTRIBUTING.md) — Protocols for proposing protocol extensions and schema migrations.
-* [`CODEOWNERS`](./CODEOWNERS) — Domain-specific maintainer routing.
-* [`.cursorrules`](./.cursorrules) & [`.editorconfig`](./.editorconfig) — Standardized agent and developer IDE conventions.
+* [`CONTRIBUTING.md`](./CONTRIBUTING.md):  Protocols for proposing protocol extensions and schema migrations.
+* [`CODEOWNERS`](./CODEOWNERS):  Domain-specific maintainer routing.
+* [`.cursorrules`](./.cursorrules) & [`.editorconfig`](./.editorconfig):  Standardized agent and developer IDE conventions.
 
 ---
 
